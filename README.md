@@ -71,4 +71,4 @@ Other things to try:
 
 * Manually delete a deployment (`kubectl delete deploy/podinfo`)
 * Scale the `podinfo` deployment to 3 replicas
-* More via https://github.com/bricef/gitops-tutorial (the tutorial here is a stripped down version of this one)
+* More via https://github.com/bricef/gitops-tutorial (the tutorial here is a stripped down version of this one) 
